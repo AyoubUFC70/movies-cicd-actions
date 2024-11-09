@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/moviesdb
     username: postgres
-    password: Rajacasa49
+    password: rajacasa49
     #url: jdbc:postgresql://${POSTGRES_HOST}/${POSTGRES_DB}
     #username: ${POSTGRES_USERNAME}
     #password: ${POSTGRES_PASSWORD}
